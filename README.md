@@ -44,12 +44,6 @@ Statistics undergraduate at **Sebelas Maret University** (Semester 7) passionate
 **Tools:** `Git` `Jupyter` `VS Code` `Google Colab`  
 **Specialties:** Machine Learning • Deep Learning • NLP • Statistical Analysis
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrveight&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrveight&layout=compact&theme=radical)
-
 ## 🏆 Recent Achievements
 
 - 🥇 **1st Place** - Start Up Paper, International Walisongo Science Competition (2025)
