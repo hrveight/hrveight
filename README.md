@@ -6,9 +6,9 @@
 
 Statistics undergraduate at **Sebelas Maret University** (Semester 7) passionate about transforming data into strategic insights and solving real-world problems with AI.
 
-- 🏆 **10+ national awards** in data science competitions
+- 🏆 **10+ national awards** 
 - 🎓 **ML Cohort Graduate** (DBS Foundation) - 93.6/100 average
-- 💼 **Former Analyst Intern** at BMKG (Meteorology Agency)
+- 💼 **Former Analyst Intern** at BMKG
 - 📊 Specialized in **Machine Learning**, **Data Visualization**, **NLP**
 
 ## 🚀 Featured Projects
