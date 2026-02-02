@@ -4,7 +4,7 @@
 
 ## 🎓 About Me
 
-Statistics undergraduate at **Sebelas Maret University** (Semester 7) passionate about transforming data into strategic insights and solving real-world problems with AI.
+Final year Satistics undergraduate at **Sebelas Maret University** passionate about transforming data into strategic insights and solving real-world problems with AI.
 
 - 🏆 **10+ national awards** 
 - 🎓 **ML Cohort Graduate** (DBS Foundation) - 93.6/100 average
